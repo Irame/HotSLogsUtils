@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "HotSLogsUtils",
-	"description": "This extension shows a Google Image search result for the current page",
+	"description": "Small Chrome extension to add simple funktionality to HotSLogs",
 	"version": "1.0",
 
 	"permissions": [
