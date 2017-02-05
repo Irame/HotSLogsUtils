@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "HotSLogsUtils",
-	"description": "Small Chrome extension to add simple funktionality to HotSLogs",
+	"description": "Small Chrome extension to add simple functionality to HotSLogs",
 	"version": "1.0",
 
 	"permissions": [
